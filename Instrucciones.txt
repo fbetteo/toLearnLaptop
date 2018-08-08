@@ -5,3 +5,10 @@ Git init : para inicializar un proyecto.
 Git add "file": Manda los archivos que selecciones al index (staging). Etapa intermedia
 
 Git commit -m "Message" : Commitea los cambios que esten en el index. 
+
+Git checkout -b New_Branch : crea branch y te switchea a esa
+
+Git checkout Branch_name : Te mueve a la branch que le digas
+
+Git Branch : para ver en que branch estas parado.
+
