@@ -1,0 +1,7 @@
+---- cd Ruta
+
+Git init : para inicializar un proyecto.
+
+Git add "file": Manda los archivos que selecciones al index (staging). Etapa intermedia
+
+Git commit -m "Message" : Commitea los cambios que esten en el index. 
